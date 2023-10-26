@@ -117,29 +117,29 @@
       "colorMult": "textures/colormap/pine"
     }
   ],
-  "blockTags": [ 
-  	{ 
-  		"customTag": "plank-ctm",
-  		"blockNames": [ 
-  			"minecraft:oak_stairs",
-			"minecraft:oak_slab",
-			"minecraft:birch_stairs",
-			"minecraft:birch_slab",
-			"minecraft:spruce_stairs",
-			"minecraft:spruce_slab",
-			"minecraft:jungle_stairs",
-			"minecraft:jungle_slab"
-  		]
-  	},
-  	{ 
-  		"customTag": "wood-ctm",
-  		"blockNames": [ 
-  			"minecraft:oak_planks",
-			"minecraft:birch_planks",
-			"minecraft:spruce_planks",
-			"minecraft:jungle_planks"
-  		]
-  	}
+  "blockTags": [
+    {
+      "customTag": "plank-ctm",
+      "blockNames": [
+        "minecraft:oak_stairs",
+        "minecraft:oak_slab",
+        "minecraft:birch_stairs",
+        "minecraft:birch_slab",
+        "minecraft:spruce_stairs",
+        "minecraft:spruce_slab",
+        "minecraft:jungle_stairs",
+        "minecraft:jungle_slab"
+      ]
+    },
+    {
+      "customTag": "wood-ctm",
+      "blockNames": [
+        "minecraft:oak_planks",
+        "minecraft:birch_planks",
+        "minecraft:spruce_planks",
+        "minecraft:jungle_planks"
+      ]
+    }
   ],
   "menuOverrides": [
     {
@@ -793,8 +793,7 @@
         "minecraft:salmon_bucket",
         "minecraft:tropical_fish_bucket",
         "minecraft:splash_potion"
-      ],
-      "creativeTab": "WesterosDoNotUse"
+      ]
     }
   ],
   "blocks": [
@@ -1212,7 +1211,8 @@
       "blockName": "yellow_wildflowers",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+      "material": "wood",
+
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1245,7 +1245,8 @@
       "blockName": "green_spiny_herb",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosGrassesShrubs",
       "boundingBox": {
         "xMin": 0.3,
@@ -1334,7 +1335,8 @@
       "blockName": "green_leafy_herb",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosGrassesShrubs",
       "boundingBox": {
         "xMin": 0.3,
@@ -1367,7 +1369,8 @@
       "blockName": "orange_marigolds",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1444,7 +1447,8 @@
       "blockName": "orange_trollius",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1497,7 +1501,8 @@
       "blockName": "blue_forgetmenots",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1574,7 +1579,8 @@
       "blockName": "pink_wildflowers",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1607,7 +1613,8 @@
       "blockName": "yellow_tansy",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1718,7 +1725,8 @@
       "blockName": "white_daisies",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1795,7 +1803,8 @@
       "blockName": "yellow_daisies",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -1848,7 +1857,8 @@
       "blockName": "green_scrub_grass",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosGrassesShrubs",
       "boundingBox": {
         "xMin": 0.3,
@@ -1949,7 +1959,8 @@
       "blockName": "dead_scrub_grass",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosGrassesShrubs",
       "boundingBox": {
         "xMin": 0.3,
@@ -2095,7 +2106,8 @@
       "blockName": "yellow_bedstraw",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -2160,7 +2172,8 @@
       "blockName": "orange_bells",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+      "material": "wood",
+
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -2179,7 +2192,7 @@
     {
       "blockName": "potted_orange_bells",
       "blockType": "flowerpot",
-      "material": "plants",
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "label": "Potted Orange Bells",
       "type": "plant-id:orange_bells",
@@ -2193,7 +2206,8 @@
       "blockName": "blue_bells",
       "blockType": "plant",
       "type": "layerSensitive",
-      "material": "plants",
+
+      "material": "wood",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -2226,6 +2240,7 @@
       "blockName": "blue_swamp_bells",
       "blockType": "plant",
       "type": "layerSensitive",
+
       "stepSound": "grass",
       "material": "plants",
       "creativeTab": "WesterosFlowers",
@@ -2260,6 +2275,7 @@
       "blockName": "yellow_buttercups",
       "blockType": "plant",
       "type": "layerSensitive",
+
       "stepSound": "grass",
       "material": "plants",
       "creativeTab": "WesterosFlowers",
@@ -2338,6 +2354,7 @@
       "blockName": "orange_bog_asphodel",
       "blockType": "plant",
       "type": "layerSensitive",
+
       "stepSound": "grass",
       "material": "plants",
       "creativeTab": "WesterosFlowers",
@@ -2417,6 +2434,7 @@
       "blockType": "plant",
       "type": "layerSensitive",
       "stepSound": "grass",
+
       "material": "plants",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
@@ -2495,6 +2513,7 @@
       "blockType": "plant",
       "type": "layerSensitive",
       "stepSound": "grass",
+
       "material": "plants",
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
@@ -2574,6 +2593,7 @@
       "type": "layerSensitive",
       "stepSound": "grass",
       "material": "plants",
+
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -2652,6 +2672,7 @@
       "type": "layerSensitive",
       "stepSound": "grass",
       "material": "plants",
+
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -2718,6 +2739,7 @@
       "type": "layerSensitive",
       "stepSound": "grass",
       "material": "plants",
+
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -2796,6 +2818,7 @@
       "type": "layerSensitive",
       "stepSound": "grass",
       "material": "plants",
+
       "creativeTab": "WesterosFlowers",
       "boundingBox": {
         "xMin": 0.3,
@@ -3624,7 +3647,7 @@
       "material": "wood",
       "resistance": 5,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Birch Fence with Vines",
       "textures": [
         "planks_birch/vines"
@@ -3639,7 +3662,7 @@
       "material": "wood",
       "resistance": 5,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Jungle Fence with Vines",
       "textures": [
         "planks_jungle/vines"
@@ -3654,7 +3677,7 @@
       "material": "wood",
       "resistance": 5,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oak Fence with Grapes",
       "textures": [
         "planks_oak/grapevines"
@@ -3669,7 +3692,7 @@
       "material": "wood",
       "resistance": 5,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Spruce Fence with Grapes",
       "textures": [
         "planks_spruce/grapevines"
@@ -3684,7 +3707,7 @@
       "material": "wood",
       "resistance": 5,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Birch Fence with Grapes",
       "textures": [
         "planks_birch/grapevines"
@@ -3699,7 +3722,7 @@
       "material": "wood",
       "resistance": 5,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Jungle Fence with Grapes",
       "textures": [
         "planks_jungle/grapevines"
@@ -3720,7 +3743,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Nether Brick Wall",
       "textures": [
         "nether_brick/side"
@@ -3741,7 +3764,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stone Brick Wall",
       "colorMult": "textures/colormap/stonebrick",
       "textures": [
@@ -3763,7 +3786,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Orange Brick Wall",
       "colorMult": "textures/colormap/brick",
       "textures": [
@@ -3785,7 +3808,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Desert Sandstone Brick Wall",
       "textures": [
         "sandstone_light_wall/top",
@@ -3808,7 +3831,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Red Sandstone Wall",
       "textures": [
         "sandstone_red_wall/top",
@@ -3831,7 +3854,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dark Cobblestone Wall",
       "colorMult": "textures/colormap/darkcobble",
       "textures": [
@@ -3853,7 +3876,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Bedrock Wall",
       "textures": [
         "stone_bedrock/side"
@@ -3874,7 +3897,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Small Stone Brick Wall",
       "colorMult": "textures/colormap/smallstonebrick",
       "textures": [
@@ -3896,7 +3919,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dark Red Brick Wall",
       "textures": [
         "dark_red_brick/side"
@@ -3917,7 +3940,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Small Orange Brick Wall",
       "colorMult": "textures/colormap/brick",
       "textures": [
@@ -3939,7 +3962,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Light Grey Brick Wall",
       "colorMult": "textures/colormap/lightgreystone",
       "textures": [
@@ -3961,7 +3984,7 @@
         }
       ],
       "creativeTab": "WesterosMarblePlaster",
-	  "type": "unconnect:false,size:short",
+      "type": "unconnect:false,size:short",
       "label": "Marble Wall",
       "textures": [
         "marble/top",
@@ -3984,7 +4007,7 @@
         }
       ],
       "creativeTab": "WesterosMarblePlaster",
-	  "type": "unconnect:false,size:short",
+      "type": "unconnect:false,size:short",
       "label": "Thin Marble Column",
       "textures": [
         "marble/top",
@@ -4007,7 +4030,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Light Brick Wall",
       "textures": [
         "reach_brick/side_light"
@@ -4028,7 +4051,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stormlands Dark Cobblestone Wall",
       "textures": [
         "stone_block_2/stone_cobble_stormlands_dark"
@@ -4049,7 +4072,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Brick Wall",
       "textures": [
         "reach_brick/side"
@@ -4070,7 +4093,7 @@
         }
       ],
       "creativeTab": "WesterosLogs",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Thin Oak Log",
       "textures": [
         "bark_oak/top",
@@ -4093,7 +4116,7 @@
         }
       ],
       "creativeTab": "WesterosLogs",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Thin Spruce Log",
       "textures": [
         "bark_spruce/top",
@@ -4116,7 +4139,7 @@
         }
       ],
       "creativeTab": "WesterosLogs",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Thin Birch Log",
       "textures": [
         "bark_birch/top",
@@ -4139,7 +4162,7 @@
         }
       ],
       "creativeTab": "WesterosLogs",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Thin Jungle Log",
       "textures": [
         "bark_jungle/top",
@@ -4162,7 +4185,7 @@
         }
       ],
       "creativeTab": "WesterosLogs",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Thin Palm Log",
       "textures": [
         "bark_palm/top",
@@ -9243,7 +9266,7 @@
       "label": "TerrainSet Eastern Islands",
       "colorMult": "textures/colormap/easternisland",
       "overlayTextures": [
-      	"terrainset_overlays/terrainset_eastern_island_overlay"
+        "terrainset_overlays/terrainset_eastern_island_overlay"
       ],
       "textures": [
         "terrainset_east/random_4x4"
@@ -9260,7 +9283,7 @@
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Iron Islands",
       "overlayTextures": [
-      	"terrainset_overlays/terrainset_iron_islands_overlay"
+        "terrainset_overlays/terrainset_iron_islands_overlay"
       ],
       "textures": [
         "terrainset_iron/random_4x4"
@@ -9342,7 +9365,7 @@
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet River Rocks",
       "overlayTextures": [
-      	"terrainset_overlays/terrainset_river_rocks_overlay"
+        "terrainset_overlays/terrainset_river_rocks_overlay"
       ],
       "textures": [
         "terrainset_river/random_4x4"
@@ -11716,7 +11739,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Cobblestone Fence",
       "colorMult": "textures/colormap/cobblestone",
       "textures": [
@@ -11732,7 +11755,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Mossy Cobblestone Fence",
       "colorMult": "textures/colormap/cobblestone",
       "textures": [
@@ -11748,7 +11771,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reinforced Oak Fence",
       "textures": [
         "wood_block_0/planks_reinforced_oak"
@@ -11763,7 +11786,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Desert Sandstone Fence",
       "textures": [
         "stone_block_0/sandstone_normal"
@@ -11778,7 +11801,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Vivid Sandstone Fence",
       "textures": [
         "stone_block_0/sandstone_vivid"
@@ -11793,7 +11816,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Vivid Dark Sandstone Fence",
       "textures": [
         "stone_block_0/sandstone_vivid_dark"
@@ -11808,7 +11831,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Monochrome Sandstone Fence",
       "textures": [
         "stone_block_0/sandstone_monochrome"
@@ -11823,7 +11846,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Monochrome Dark Sandstone Fence",
       "textures": [
         "stone_block_0/sandstone_monochrome_dark"
@@ -11838,7 +11861,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Terracotta Fence",
       "textures": [
         "stone_block_0/sandstone_terracotta"
@@ -11853,7 +11876,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dark Northern Wood Fence",
       "textures": [
         "dark_northern_wood/side"
@@ -11883,7 +11906,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Small Stone Brick Fence",
       "colorMult": "textures/colormap/smallstonebrick",
       "textures": [
@@ -11899,7 +11922,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dark Cobblestone Fence",
       "colorMult": "textures/colormap/darkcobble",
       "textures": [
@@ -11915,7 +11938,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Bedrock Fence",
       "textures": [
         "stone_bedrock/side"
@@ -11930,7 +11953,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Light Grey Brick Fence",
       "colorMult": "textures/colormap/lightgreystone",
       "textures": [
@@ -11946,7 +11969,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Orange Brick Fence",
       "colorMult": "textures/colormap/brick",
       "textures": [
@@ -11962,7 +11985,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMarblePlaster",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Marble Column Fence",
       "textures": [
         "log_block_0/column_block_marble_side"
@@ -19316,7 +19339,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Vivid Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_vivid_top",
@@ -19339,7 +19362,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Vivid Mossy Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_vivid_top",
@@ -19362,7 +19385,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Vivid Dark Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_vivid_dark_top",
@@ -19385,7 +19408,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Large Brick Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_bricks_large",
@@ -19408,7 +19431,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Monochrome Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_monochrome_top",
@@ -19431,7 +19454,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Monochrome Mossy Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_monochrome_top",
@@ -19454,7 +19477,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Monochrome Dark Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_monochrome_dark_top",
@@ -19477,7 +19500,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Terracotta Wall",
       "textures": [
         "stone_block_0/sandstone_terracotta_top",
@@ -19500,7 +19523,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Terracotta Engraved Wall",
       "textures": [
         "stone_block_0/sandstone_terracotta_top",
@@ -19523,7 +19546,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dark Brown Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_brown_dark"
@@ -19544,7 +19567,7 @@
         }
       ],
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Black Slate Wall",
       "textures": [
         "stone_slate_0/slate_black"
@@ -19565,7 +19588,7 @@
         }
       ],
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Blue Slate Wall",
       "textures": [
         "stone_slate_0/slate_blue"
@@ -19586,7 +19609,7 @@
         }
       ],
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Red Slate Wall",
       "textures": [
         "stone_slate_0/slate_red"
@@ -19607,7 +19630,7 @@
         }
       ],
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Brown Slate Wall",
       "textures": [
         "stone_slate_0/slate_brown"
@@ -19628,7 +19651,7 @@
         }
       ],
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Green Slate Wall",
       "textures": [
         "stone_slate_0/slate_green"
@@ -19782,7 +19805,7 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Stormlands",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_stormlands_overlay"
       ],
       "textures": [
@@ -20211,7 +20234,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Black Slate Fence",
       "textures": [
         "stone_slate_0/slate_black"
@@ -20226,7 +20249,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Blue Slate Fence",
       "textures": [
         "stone_slate_0/slate_blue"
@@ -20241,7 +20264,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Red Slate Fence",
       "textures": [
         "stone_slate_0/slate_red"
@@ -20256,7 +20279,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Brown Slate Fence",
       "textures": [
         "stone_slate_0/slate_brown"
@@ -20271,7 +20294,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Green Slate Fence",
       "textures": [
         "stone_slate_0/slate_green"
@@ -20286,7 +20309,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Light Brick Fence",
       "textures": [
         "reach_brick/side_light"
@@ -20301,7 +20324,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stormlands Dark Cobblestone Fence",
       "textures": [
         "stone_block_2/stone_cobble_stormlands_dark"
@@ -20316,7 +20339,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dorne Dull Terracotta Fence",
       "textures": [
         "stone_block_0/sandstone_terracotta_dull"
@@ -20331,7 +20354,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dorne Light Terracotta Fence",
       "textures": [
         "stone_block_0/sandstone_terracotta_light"
@@ -20346,7 +20369,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dorne Dark Sandstone Fence",
       "textures": [
         "stone_block_0/sandstone_normal_dark"
@@ -20361,7 +20384,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosLogs",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Palm Fence",
       "textures": [
         "bark_palm/side"
@@ -20376,7 +20399,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosDecor",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Iron Throne Blade Fence",
       "textures": [
         "blades_molten/side1"
@@ -20391,7 +20414,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Bronze Fence",
       "textures": [
         "metal_block_0/metal_block_bronze"
@@ -20406,7 +20429,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Red-Orange Slate Fence",
       "textures": [
         "stone_slate_0/slate_red_orange"
@@ -20421,7 +20444,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oxidized Bronze Fence",
       "textures": [
         "bronze_block_oxidized/side3"
@@ -20436,7 +20459,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stone Slab Fence",
       "textures": [
         "stone_slab/stone_slab_side"
@@ -21385,7 +21408,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dorne Dull Terracotta Wall",
       "textures": [
         "stone_block_0/sandstone_terracotta_dull_top",
@@ -21408,7 +21431,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dorne Light Terracotta Wall",
       "textures": [
         "stone_block_0/sandstone_terracotta_light_top",
@@ -21431,7 +21454,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Dorne Dark Sandstone Wall",
       "textures": [
         "stone_block_0/sandstone_normal_dark_top",
@@ -21454,7 +21477,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "KL Dun Brick Wall",
       "textures": [
         "stone_block_3/brick_dun"
@@ -21475,7 +21498,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Iron Throne Blade Wall",
       "textures": [
         "blades_molten/side1"
@@ -21496,7 +21519,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Winterfell Granite Wall",
       "textures": [
         "winterfell_granite/side"
@@ -21517,7 +21540,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "White Cobblestone Wall",
       "textures": [
         "stone_block_2/stone_cobble_white"
@@ -21538,7 +21561,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Basalt Brick Wall",
       "textures": [
         "stone_block_1/brick_basalt"
@@ -21559,7 +21582,7 @@
         }
       ],
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Bronze Wall",
       "randomTextures": [
         {
@@ -21594,7 +21617,7 @@
         }
       ],
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Red-Orange Slate Wall",
       "textures": [
         "stone_slate_0/slate_red_orange"
@@ -21615,7 +21638,7 @@
         }
       ],
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oxidized Bronze Wall",
       "randomTextures": [
         {
@@ -21650,7 +21673,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stone Slab Wall",
       "textures": [
         "stone_slab/stone_slab_side"
@@ -21671,7 +21694,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stormlands Brick Wall",
       "textures": [
         "stone_block_2/brick_stormlands_small"
@@ -21692,7 +21715,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stormlands Cobblestone Wall",
       "textures": [
         "stone_block_2/stone_cobble_stormlands"
@@ -21713,7 +21736,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Basalt Cobblestone Wall",
       "textures": [
         "stone_block_1/stone_cobble_basalt"
@@ -21734,7 +21757,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Lannisport Light Brick Wall",
       "textures": [
         "stone_block_2/brick_lannisport"
@@ -23288,8 +23311,8 @@
     {
       "blockName": "savanna_tall_grass",
       "blockType": "web",
-      "stepSound": "grass",
-      "material": "plants",
+      "stepSound": "cloth",
+      "material": "web",
       "creativeTab": "WesterosGrassesShrubs",
       "label": "Savanna Tall Grass",
       "textures": [
@@ -23302,8 +23325,8 @@
     {
       "blockName": "jungle_tall_fern",
       "blockType": "web",
-      "stepSound": "grass",
-      "material": "plants",
+      "stepSound": "cloth",
+      "material": "web",
       "creativeTab": "WesterosGrassesShrubs",
       "label": "Jungle Tall Fern",
       "textures": [
@@ -23316,8 +23339,8 @@
     {
       "blockName": "jungle_tall_grass",
       "blockType": "web",
-      "stepSound": "grass",
-      "material": "plants",
+      "stepSound": "cloth",
+      "material": "web",
       "creativeTab": "WesterosGrassesShrubs",
       "label": "Jungle Tall Grass",
       "textures": [
@@ -23330,8 +23353,8 @@
     {
       "blockName": "cattails",
       "blockType": "web",
-      "stepSound": "grass",
-      "material": "plants",
+      "stepSound": "cloth",
+      "material": "web",
       "creativeTab": "WesterosGrassesShrubs",
       "label": "Cattails",
       "randomTextures": [
@@ -23815,7 +23838,7 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Reach",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_overlay"
       ],
       "textures": [
@@ -23975,7 +23998,7 @@
       "resistance": 10,
       "creativeTab": "WesterosMarblePlaster",
       "label": "Eyrie Blue Veined Marble",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/eyrie_veined_overlay"
       ],
       "textures": [
@@ -24064,7 +24087,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Approval' Utility Block",
       "textures": [
@@ -24085,7 +24108,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'High Class' Utility Block",
       "textures": [
@@ -24106,7 +24129,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Middle Class' Utility Block",
       "textures": [
@@ -24127,7 +24150,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Low Class' Utility Block",
       "textures": [
@@ -24148,7 +24171,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Special' Utility Block",
       "textures": [
@@ -24169,7 +24192,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Note' Utility Block",
       "textures": [
@@ -24190,7 +24213,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'House Count' Utility Block",
       "textures": [
@@ -24211,7 +24234,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Done' Utility Block",
       "textures": [
@@ -24232,7 +24255,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'WIP' Utility Block",
       "textures": [
@@ -24253,7 +24276,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Industry' Utility Block",
       "textures": [
@@ -24274,7 +24297,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Domestic' Utility Block",
       "textures": [
@@ -24295,7 +24318,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Workshop' Utility Block",
       "textures": [
@@ -24316,7 +24339,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Shop' Utility Block",
       "textures": [
@@ -24337,7 +24360,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "lightValue": 0,
       "label": "'Yard' Utility Block",
       "textures": [
@@ -24563,7 +24586,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -24571,7 +24594,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:0"
     },
@@ -24627,7 +24650,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -24635,7 +24658,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:1"
     },
@@ -24690,7 +24713,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -24698,7 +24721,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:2"
     },
@@ -24753,7 +24776,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -24761,7 +24784,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:3"
     },
@@ -24816,7 +24839,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -24824,7 +24847,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:4"
     },
@@ -24879,7 +24902,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -24887,7 +24910,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:5"
     },
@@ -24942,7 +24965,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -24950,7 +24973,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:6"
     },
@@ -25005,7 +25028,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25013,7 +25036,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:7"
     },
@@ -25068,7 +25091,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25076,7 +25099,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:8"
     },
@@ -25131,7 +25154,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25139,7 +25162,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:9"
     },
@@ -25194,7 +25217,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25202,7 +25225,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:10"
     },
@@ -25258,7 +25281,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25266,7 +25289,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:11"
     },
@@ -25322,7 +25345,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25330,7 +25353,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:12"
     },
@@ -25386,7 +25409,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25394,7 +25417,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:13"
     },
@@ -25450,7 +25473,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25458,7 +25481,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:14"
     },
@@ -25513,7 +25536,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -25521,7 +25544,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_1:15"
     },
@@ -26103,7 +26126,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Tavern Small",
       "textures": [
         "sound_int"
@@ -26123,7 +26146,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Tavern Large",
       "textures": [
         "sound_int"
@@ -26143,7 +26166,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Blacksmith Small",
       "textures": [
         "sound_int"
@@ -26163,7 +26186,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Blacksmith Large",
       "textures": [
         "sound_int"
@@ -26183,7 +26206,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Stables Small",
       "textures": [
         "sound_int"
@@ -26203,7 +26226,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Stables Large",
       "textures": [
         "sound_int"
@@ -26223,7 +26246,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Windmill Small",
       "textures": [
         "sound_int"
@@ -26243,7 +26266,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Windmill Large",
       "textures": [
         "sound_int"
@@ -26263,7 +26286,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Armory Small",
       "textures": [
         "sound_int"
@@ -26283,7 +26306,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Armory large",
       "textures": [
         "sound_int"
@@ -26303,7 +26326,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Butcher Small",
       "textures": [
         "sound_int"
@@ -26323,7 +26346,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Butcher Large",
       "textures": [
         "sound_int"
@@ -26343,7 +26366,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Carpenter Small",
       "textures": [
         "sound_int"
@@ -26363,7 +26386,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Carpenter Large",
       "textures": [
         "sound_int"
@@ -26383,7 +26406,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Dungeon Small",
       "textures": [
         "sound_int"
@@ -26403,7 +26426,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Dungeon Large",
       "textures": [
         "sound_int"
@@ -26423,7 +26446,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Sept Small",
       "textures": [
         "sound_int"
@@ -26443,7 +26466,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Sept Large",
       "textures": [
         "sound_int"
@@ -26463,7 +26486,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Rookery Small",
       "textures": [
         "sound_int"
@@ -26483,7 +26506,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Rookery Large",
       "textures": [
         "sound_int"
@@ -26503,7 +26526,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Sewer",
       "textures": [
         "sound_int"
@@ -26523,7 +26546,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Jenny of Oldstones",
       "textures": [
         "sound_int"
@@ -26543,7 +26566,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Cave Ambience",
       "textures": [
         "sound_ext"
@@ -26563,7 +26586,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Iron Mine Small",
       "textures": [
         "sound_ext"
@@ -26583,7 +26606,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Iron Mine Large",
       "textures": [
         "sound_ext"
@@ -26603,7 +26626,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Heart Tree Small",
       "textures": [
         "sound_ext"
@@ -26623,7 +26646,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Heart Tree Large",
       "textures": [
         "sound_ext"
@@ -26643,7 +26666,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Docked Ship Small",
       "textures": [
         "sound_ext"
@@ -26663,7 +26686,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Docked Ship Large",
       "textures": [
         "sound_ext"
@@ -26683,7 +26706,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Ship Sails",
       "textures": [
         "sound_ext"
@@ -26703,7 +26726,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Market Small",
       "textures": [
         "sound_ext"
@@ -26723,7 +26746,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Market Large",
       "textures": [
         "sound_ext"
@@ -26743,7 +26766,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Training Yard Small",
       "textures": [
         "sound_ext"
@@ -26763,7 +26786,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Training Yard Large",
       "textures": [
         "sound_ext"
@@ -26783,7 +26806,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Beehive Small",
       "textures": [
         "sound_ext"
@@ -26803,7 +26826,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Beehive Large",
       "textures": [
         "sound_ext"
@@ -26823,7 +26846,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Flag Flapping",
       "textures": [
         "sound_ext"
@@ -26843,7 +26866,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Rushing Water Small",
       "textures": [
         "sound_ext"
@@ -26863,7 +26886,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Rushing Water Large",
       "textures": [
         "sound_ext"
@@ -26883,7 +26906,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Warning Bells Small",
       "textures": [
         "sound_trig"
@@ -26903,7 +26926,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Warning Bells Large",
       "textures": [
         "sound_trig"
@@ -26923,7 +26946,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Portcullis 4 Sec",
       "textures": [
         "sound_trig"
@@ -26943,7 +26966,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Portcullis 6 Sec",
       "textures": [
         "sound_trig"
@@ -26963,7 +26986,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Rangers Hornblast",
       "textures": [
         "sound_trig"
@@ -26983,7 +27006,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Wildlings Hornblast",
       "textures": [
         "sound_trig"
@@ -27003,7 +27026,7 @@
       "stepSound": "stone",
       "material": "ground",
       "resistance": 2,
-      "creativeTab": "WesterosSounds",
+
       "label": "Walkers Hornblast",
       "textures": [
         "sound_trig"
@@ -27921,7 +27944,7 @@
         }
       ],
       "creativeTab": "WesterosDecor",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Sept Crystal Medium",
       "textures": [
         "translucent_block_0/crystal_block_wall_top",
@@ -27940,7 +27963,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosDecor",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Sept Crystal Small",
       "textures": [
         "translucent_block_0/crystal_block_fence_top",
@@ -33833,7 +33856,7 @@
           "level": 1
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "label": "Test Block",
       "textures": [
         "test_block/d_texture",
@@ -33866,7 +33889,7 @@
           "level": 1
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "label": "Test Block 2",
       "textures": [
         "test_block/d_texture",
@@ -33899,7 +33922,7 @@
           "level": 1
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "label": "Test Block 16-way",
       "textures": [
         "test_block/d_texture",
@@ -33931,7 +33954,7 @@
           "level": 1
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "type": "unconnect:false",
       "label": "Test Wall (unconnect)",
       "textures": [
@@ -33948,7 +33971,7 @@
       "material": "wood",
       "resistance": 10,
       "type": "unconnect:false",
-      "creativeTab": "WesterosUtility",
+
       "label": "Test Fence (unconnect)",
       "textures": [
         "test_block/w_texture"
@@ -33958,7 +33981,7 @@
       "blockName": "test_block_6",
       "blockType": "stair",
       "modelBlockName": "reach_brick",
-      "creativeTab": "WesterosUtility",
+
       "label": "Test Stair (unconnect)",
       "type": "unconnect:false",
       "textures": [
@@ -33966,7 +33989,7 @@
         "test_block/u_texture",
         "test_block/w_texture"
       ]
-    },    
+    },
     {
       "blockName": "test_block_7",
       "blockType": "pane",
@@ -33980,7 +34003,7 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "type": "unconnect:false,bars-model",
       "label": "Test Pane (unconnect)",
       "textures": [
@@ -33988,7 +34011,7 @@
         "bars_iron_block_0/bars_iron_crossbars_top"
       ]
     },
-    
+
     {
       "blockName": "cabbage",
       "blockType": "cuboid-16way",
@@ -34846,7 +34869,7 @@
       "blockType": "stair",
       "modelBlockName": "reach_brick",
       "creativeTab": "WesterosBrick",
-       "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Brick Stairs",
       "legacyBlockID": "stone_block_3_stair_7"
     },
@@ -34858,7 +34881,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Brick Fence",
       "textures": [
         "reach_brick/side"
@@ -34873,7 +34896,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stormlands Brick Fence",
       "textures": [
         "stone_block_2/brick_stormlands_small"
@@ -34888,7 +34911,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stormlands Cobblestone Fence",
       "textures": [
         "stone_block_2/stone_cobble_stormlands"
@@ -34903,7 +34926,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Basalt Cobblestone Fence",
       "textures": [
         "stone_block_1/stone_cobble_basalt"
@@ -34918,7 +34941,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Lannisport Light Brick Fence",
       "textures": [
         "stone_block_2/brick_lannisport"
@@ -34933,7 +34956,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oldtown Brick Fence",
       "textures": [
         "stone_block_3/brick_oldtown"
@@ -34948,7 +34971,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Arbor Brick Fence",
       "textures": [
         "stone_block_3/brick_arbor"
@@ -34963,7 +34986,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Arbor Cobblestone Fence",
       "textures": [
         "stone_block_3/stone_cobble_arbor"
@@ -34978,7 +35001,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMarblePlaster",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Starry Sept Marble Fence",
       "textures": [
         "starry_sept_marble/starry_sept"
@@ -34993,7 +35016,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMarblePlaster",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Citadel Green Marble Fence",
       "textures": [
         "citadel_green_marble/citadel_marble"
@@ -35008,7 +35031,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oldtown Cobblestone Fence",
       "textures": [
         "stone_block_3/stone_cobble_oldtown"
@@ -35023,7 +35046,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Cobblestone Fence",
       "textures": [
         "stone_block_2/stone_cobble_reach"
@@ -35038,7 +35061,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Grey Wood Fence",
       "textures": [
         "grey_wood/side"
@@ -35053,7 +35076,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "White Wood Fence",
       "textures": [
         "white_wood/side"
@@ -35068,7 +35091,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Pink Sandstone Fence",
       "textures": [
         "pink_sandstone/side"
@@ -35083,7 +35106,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Orange Slate Fence",
       "textures": [
         "orange_slate/side"
@@ -38467,7 +38490,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Thatch Light Wall",
       "textures": [
         "thatch_light/thatch_light"
@@ -38488,7 +38511,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Thatch Dark Wall",
       "textures": [
         "fur_block_0/thatch_dark"
@@ -38509,7 +38532,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Oak Wall",
       "textures": [
@@ -38531,7 +38554,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Spruce Wall",
       "textures": [
@@ -38553,7 +38576,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Birch Wall",
       "textures": [
@@ -38575,7 +38598,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Jungle Wall",
       "textures": [
@@ -38597,7 +38620,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Dark Northern Wood Wall",
       "textures": [
@@ -38621,7 +38644,7 @@
         }
       ],
       "creativeTab": "WesterosPanellingCarvings",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Oak Wood Panelling Wall",
       "randomTextures": [
         {
@@ -38662,7 +38685,7 @@
         }
       ],
       "creativeTab": "WesterosPanellingCarvings",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Spruce Wood Panelling Wall",
       "randomTextures": [
         {
@@ -38703,7 +38726,7 @@
         }
       ],
       "creativeTab": "WesterosClothFibers",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Mance's Camp Common Tent Wall",
       "textures": [
         "mances_camp_common_tent/outside2"
@@ -38724,7 +38747,7 @@
         }
       ],
       "creativeTab": "WesterosClothFibers",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Mance's Camp Mance's Tent Wall",
       "textures": [
         "mances_camp_mances_tent/outside"
@@ -38745,7 +38768,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Grey Wood Wall",
       "textures": [
@@ -38767,7 +38790,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "White Wood Wall",
       "textures": [
@@ -38789,7 +38812,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Snowy Thatch Light Wall",
       "textures": [
         "snowy_thatch_light_fur/top"
@@ -38810,7 +38833,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Snowy Thatch Dark Wall",
       "textures": [
         "snowy_thatch_dark_fur/top"
@@ -38831,7 +38854,7 @@
         }
       ],
       "creativeTab": "WesterosWaterAir",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Snow Wall",
       "textures": [
         "ground_block_0/snow"
@@ -39291,8 +39314,8 @@
       ],
       "creativeTab": "WesterosMisc",
       "label": "Cushion Moss Slab",
-      "overlayTextures": [ 
-         "terrainset_overlays/cushion_moss_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/cushion_moss_overlay"
       ],
       "randomTextures": [
         {
@@ -39368,7 +39391,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oldtown Brick Wall",
       "textures": [
         "stone_block_3/brick_oldtown"
@@ -39389,7 +39412,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Arbor Brick Wall",
       "textures": [
         "stone_block_3/brick_arbor"
@@ -39410,7 +39433,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Arbor Cobblestone Wall",
       "textures": [
         "stone_block_3/stone_cobble_arbor"
@@ -39431,7 +39454,7 @@
         }
       ],
       "creativeTab": "WesterosMarblePlaster",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Starry Sept Marble Wall",
       "textures": [
         "starry_sept_marble/starry_sept"
@@ -39452,7 +39475,7 @@
         }
       ],
       "creativeTab": "WesterosMarblePlaster",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Citadel Green Marble Wall",
       "textures": [
         "citadel_green_marble/citadel_marble"
@@ -39473,7 +39496,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oldtown Cobblestone Wall",
       "textures": [
         "stone_block_3/stone_cobble_oldtown"
@@ -39494,7 +39517,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Reach Cobblestone Wall",
       "textures": [
         "stone_block_2/stone_cobble_reach"
@@ -39515,7 +39538,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "River Cobble Wall",
       "colorMult": "textures/colormap/lightgreystone",
       "randomTextures": [
@@ -39560,7 +39583,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Small Smooth Stone Brick Wall",
       "colorMult": "textures/colormap/smallsmoothstonebrick",
       "textures": [
@@ -39641,7 +39664,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Valyrian Stone Wall",
       "textures": [
         "stone_block_1/stone_valyrian"
@@ -39662,7 +39685,7 @@
         }
       ],
       "creativeTab": "WesterosSandstone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Pink Sandstone Wall",
       "textures": [
         "pink_sandstone/side1"
@@ -39683,7 +39706,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Sandy Pink Large Brick Wall",
       "textures": [
         "stone_block_4/brick_sandy_pink_large"
@@ -39704,7 +39727,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Sandy Pink Cobble Wall",
       "textures": [
         "stone_block_4/stone_cobble_sandy_pink"
@@ -39725,7 +39748,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Sandy Pink Light Brick Wall",
       "textures": [
         "stone_block_4/brick_sandy_pink_light"
@@ -39746,7 +39769,7 @@
         }
       ],
       "creativeTab": "WesterosRoofing",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Orange Slate Wall",
       "textures": [
         "orange_slate/side"
@@ -39767,7 +39790,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Arbor Small Brick Wall",
       "textures": [
         "stone_block_3/brick_arbor_small"
@@ -39825,7 +39848,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -39833,7 +39856,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:0"
     },
@@ -39888,7 +39911,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -39896,7 +39919,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:1"
     },
@@ -39951,7 +39974,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -39959,7 +39982,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:2"
     },
@@ -40014,7 +40037,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40022,7 +40045,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:3"
     },
@@ -40077,7 +40100,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40085,7 +40108,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:4"
     },
@@ -40140,7 +40163,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40148,7 +40171,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:5"
     },
@@ -40203,7 +40226,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40211,7 +40234,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:6"
     },
@@ -40266,7 +40289,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40274,7 +40297,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:7"
     },
@@ -40330,7 +40353,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40338,7 +40361,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:8"
     },
@@ -40394,7 +40417,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40402,7 +40425,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:9"
     },
@@ -40457,7 +40480,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40465,7 +40488,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:10"
     },
@@ -40520,7 +40543,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40528,7 +40551,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:11"
     },
@@ -40583,7 +40606,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40591,7 +40614,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:12"
     },
@@ -40646,7 +40669,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40654,7 +40677,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:13"
     },
@@ -40709,7 +40732,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40717,7 +40740,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:14"
     },
@@ -40772,7 +40795,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -40780,7 +40803,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_2:15"
     },
@@ -42096,8 +42119,8 @@
       "label": "TerrainSet Eastern Islands Stairs",
       "colorMult": "textures/colormap/easternisland",
       "legacyBlockID": "terrainset_stair_0",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_eastern_island_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_eastern_island_overlay"
       ]
     },
     {
@@ -42108,8 +42131,8 @@
       "type": "unconnect:false",
       "label": "TerrainSet Iron Islands Stairs",
       "legacyBlockID": "terrainset_stair_1",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_iron_islands_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_iron_islands_overlay"
       ]
     },
     {
@@ -42120,7 +42143,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Mountains of the Moon Stairs",
       "legacyBlockID": "terrainset_stair_2",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_eyrie_overlay"
       ]
     },
@@ -42141,7 +42164,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Ocean Rocks Stairs",
       "legacyBlockID": "terrainset_stair_4",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_ocean_rocks_overlay"
       ]
     },
@@ -42153,7 +42176,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Red Mountains Stairs",
       "legacyBlockID": "terrainset_stair_5",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_overlay"
       ]
     },
@@ -42165,8 +42188,8 @@
       "type": "unconnect:false",
       "label": "TerrainSet River Rocks Stairs",
       "legacyBlockID": "terrainset_stair_6",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_river_rocks_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_river_rocks_overlay"
       ]
     },
     {
@@ -42177,7 +42200,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Westerlands Stairs",
       "legacyBlockID": "terrainset_stair_7",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_overlay"
       ]
     },
@@ -42198,7 +42221,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Stormlands Stairs",
       "legacyBlockID": "terrainset_stair_9",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_stormlands_overlay"
       ]
     },
@@ -42210,7 +42233,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Reach Stairs",
       "legacyBlockID": "terrainset_stair_10",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_overlay"
       ]
     },
@@ -42230,8 +42253,8 @@
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Eastern Islands Slab",
       "colorMult": "textures/colormap/easternisland",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_eastern_island_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_eastern_island_overlay"
       ],
       "textures": [
         "terrainset_east/random_4x4"
@@ -42253,8 +42276,8 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Iron Islands Slab",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_iron_islands_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_iron_islands_overlay"
       ],
       "textures": [
         "terrainset_iron/random_4x4"
@@ -42276,7 +42299,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Mountains of the Moon Slab",
-	  "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_eyrie_overlay"
       ],
       "textures": [
@@ -42319,7 +42342,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Ocean Rocks Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_ocean_rocks_overlay"
       ],
       "textures": [
@@ -42342,7 +42365,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Red Mountains Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_overlay"
       ],
       "textures": [
@@ -42365,8 +42388,8 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet River Rocks Slab",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_river_rocks_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_river_rocks_overlay"
       ],
       "textures": [
         "terrainset_river/random_4x4"
@@ -42388,7 +42411,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Westerlands Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_overlay"
       ],
       "textures": [
@@ -42431,7 +42454,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Stormlands Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_stormlands_overlay"
       ],
       "textures": [
@@ -42454,7 +42477,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Reach Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_overlay"
       ],
       "textures": [
@@ -42477,7 +42500,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Red Mountains Alt Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_alt_overlay"
       ],
       "textures": [
@@ -42500,7 +42523,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Westerlands Alt Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_alt_overlay"
       ],
       "textures": [
@@ -42563,7 +42586,7 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Reach Alt Slab",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_alt_overlay"
       ],
       "textures": [
@@ -42585,11 +42608,11 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Eastern Islands Wall",
       "colorMult": "textures/colormap/easternisland",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_eastern_island_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_eastern_island_overlay"
       ],
       "textures": [
         "terrainset_east/random_4x4"
@@ -42610,10 +42633,10 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Iron Islands Wall",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_iron_islands_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_iron_islands_overlay"
       ],
       "textures": [
         "terrainset_iron/random_4x4"
@@ -42634,9 +42657,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
- 	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Mountains of the Moon Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_eyrie_overlay"
       ],
       "textures": [
@@ -42658,7 +42681,7 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet The North Wall",
       "textures": [
         "terrainset_north/random_4x4"
@@ -42679,9 +42702,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Ocean Rocks Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_ocean_rocks_overlay"
       ],
       "textures": [
@@ -42703,9 +42726,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Red Mountains Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_overlay"
       ],
       "textures": [
@@ -42727,10 +42750,10 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet River Rocks Wall",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_river_rocks_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_river_rocks_overlay"
       ],
       "textures": [
         "terrainset_river/random_4x4"
@@ -42751,9 +42774,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Westerlands Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_overlay"
       ],
       "textures": [
@@ -42775,7 +42798,7 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Arbor Dorne Wall",
       "textures": [
         "terrainset_dorne/random_4x4"
@@ -42796,9 +42819,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Stormlands Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_stormlands_overlay"
       ],
       "textures": [
@@ -42820,9 +42843,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Reach Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_overlay"
       ],
       "textures": [
@@ -42844,9 +42867,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Red Mountains Alt Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_alt_overlay"
       ],
       "textures": [
@@ -42868,9 +42891,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Westerlands Alt Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_alt_overlay"
       ],
       "textures": [
@@ -42892,7 +42915,7 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Arbor Dorne Alt Wall",
       "textures": [
         "terrainset_dorne_alt/random_4x4"
@@ -42913,7 +42936,7 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Stormlands Alt Wall",
       "textures": [
         "terrainset_stormlands_alt/random_4x4"
@@ -42934,9 +42957,9 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Reach Alt Wall",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_alt_overlay"
       ],
       "textures": [
@@ -42952,11 +42975,11 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Eastern Islands Fence",
       "colorMult": "textures/colormap/easternisland",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_eastern_island_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_eastern_island_overlay"
       ],
       "textures": [
         "terrainset_east/random_4x4"
@@ -42985,10 +43008,10 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Iron Islands Fence",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_iron_islands_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_iron_islands_overlay"
       ],
       "textures": [
         "terrainset_iron/random_4x4"
@@ -43008,7 +43031,7 @@
         "terrainset_iron/random_4x4"
       ]
     },
-    
+
     {
       "blockName": "terrainset_mountains_of_the_moon_fence",
       "blockType": "fence",
@@ -43017,7 +43040,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Mountains of the Moon Fence",
       "textures": [
         "terrainset_eyrie/random_6x6"
@@ -43037,7 +43060,7 @@
         "terrainset_eyrie/random_6x6"
       ]
     },
-    
+
     {
       "blockName": "terrainset_the_north_fence",
       "blockType": "fence",
@@ -43046,7 +43069,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet The North Fence",
       "textures": [
         "terrainset_north/random_4x4"
@@ -43066,7 +43089,7 @@
         "terrainset_north/random_4x4"
       ]
     },
-    
+
     {
       "blockName": "terrainset_ocean_rocks_fence",
       "blockType": "fence",
@@ -43075,9 +43098,9 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Ocean Rocks Fence",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_ocean_rocks_overlay"
       ],
       "textures": [
@@ -43106,9 +43129,9 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Red Mountains Fence",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_overlay"
       ],
       "textures": [
@@ -43129,7 +43152,7 @@
         "terrainset_red_mountains/random_4x4"
       ]
     },
- 
+
     {
       "blockName": "terrainset_river_rocks_fence",
       "blockType": "fence",
@@ -43138,10 +43161,10 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet River Rocks Fence",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_river_rocks_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_river_rocks_overlay"
       ],
       "textures": [
         "terrainset_river/random_4x4"
@@ -43169,9 +43192,9 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Westerlands Fence",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_overlay"
       ],
       "textures": [
@@ -43188,9 +43211,9 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Westerlands Fence Gate",
-          "textures": [
-            "terrainset_westerlandhills/random_4x4"
-          ]
+      "textures": [
+        "terrainset_westerlandhills/random_4x4"
+      ]
     },
     {
       "blockName": "terrainset_arbor_dorne_fence",
@@ -43200,7 +43223,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Arbor Dorne Fence",
       "textures": [
         "terrainset_dorne/random_4x4"
@@ -43228,7 +43251,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Stormlands Fence",
       "textures": [
         "terrainset_stormlands/random_4x4"
@@ -43256,9 +43279,9 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Reach Fence",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_overlay"
       ],
       "textures": [
@@ -43266,7 +43289,7 @@
       ],
       "legacyBlockID": "terrainset_fence_block_3:10"
     },
-        {
+    {
       "blockName": "terrainset_reach_fence_gate",
       "blockType": "fencegate",
       "hardness": 5,
@@ -43276,7 +43299,7 @@
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Reach Fence Gate",
       "textures": [
-          "terrainset_reach/random_4x4"
+        "terrainset_reach/random_4x4"
       ]
     },
     {
@@ -43287,9 +43310,9 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Red Mountains Alt Fence",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_alt_overlay"
       ],
       "textures": [
@@ -43306,9 +43329,9 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Red Mountains Alt Fence Gate",
-          "textures": [
-            "terrainset_red_mountains_alt/random_4x4"
-          ]
+      "textures": [
+        "terrainset_red_mountains_alt/random_4x4"
+      ]
     },
     {
       "blockName": "terrainset_westerlands_alt_fence",
@@ -43318,7 +43341,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Westerlands Alt Fence",
       "textures": [
         "terrainset_westerlandhills_alt/random_4x4"
@@ -43346,7 +43369,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Arbor Dorne Alt Fence",
       "textures": [
         "terrainset_dorne_alt/random_4x4"
@@ -43374,7 +43397,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Stormlands Alt Fence",
       "textures": [
         "terrainset_stormlands_alt/random_4x4"
@@ -43390,9 +43413,9 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Stormlands Alt Fence Gate",
-          "textures": [
-            "terrainset_stormlands_alt/random_4x4"
-          ]
+      "textures": [
+        "terrainset_stormlands_alt/random_4x4"
+      ]
     },
     {
       "blockName": "terrainset_reach_alt_fence",
@@ -43402,9 +43425,9 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Reach Alt Fence",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_alt_overlay"
       ],
       "textures": [
@@ -43476,7 +43499,7 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Red Mountains Alt",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_alt_overlay"
       ],
       "textures": [
@@ -43493,7 +43516,7 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Westerlands Alt",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_alt_overlay"
       ],
       "textures": [
@@ -43541,7 +43564,7 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "TerrainSet Reach Alt",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_alt_overlay"
       ],
       "textures": [
@@ -43575,8 +43598,8 @@
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
       "label": "Flowstone",
-      "overlayTextures": [ 
-      	"terrainset_overlays/flowstone_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/flowstone_overlay"
       ],
       "randomTextures": [
         {
@@ -43611,8 +43634,8 @@
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
       "label": "Volcanic Rock",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_volcanic_rock_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_volcanic_rock_overlay"
       ],
       "textures": [
         "terrainset_volcanic/random_4x4"
@@ -43628,8 +43651,8 @@
       "resistance": 5,
       "creativeTab": "WesterosMisc",
       "label": "Cushion Moss",
-      "overlayTextures": [ 
-         "terrainset_overlays/cushion_moss_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/cushion_moss_overlay"
       ],
       "randomTextures": [
         {
@@ -43678,7 +43701,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Red Mountains Alt Stairs",
       "legacyBlockID": "terrainset_stair_11",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_red_mountains_alt_overlay"
       ]
     },
@@ -43690,7 +43713,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Westerlands Alt Stairs",
       "legacyBlockID": "terrainset_stair_12",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_westerlands_overlay"
       ]
     },
@@ -43720,7 +43743,7 @@
       "type": "unconnect:false",
       "label": "TerrainSet Reach Alt Stairs",
       "legacyBlockID": "terrainset_stair_15",
-      "overlayTextures": [ 
+      "overlayTextures": [
         "terrainset_overlays/terrainset_reach_alt_overlay"
       ]
     },
@@ -43741,8 +43764,8 @@
       "type": "unconnect:false",
       "label": "Flowstone Stairs",
       "legacyBlockID": "terrainset_stair_17",
-      "overlayTextures": [ 
-      	"terrainset_overlays/flowstone_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/flowstone_overlay"
       ]
     },
     {
@@ -43780,8 +43803,8 @@
       ],
       "creativeTab": "WesterosCobbleStone",
       "label": "Flowstone Slab",
-      "overlayTextures": [ 
-      	"terrainset_overlays/flowstone_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/flowstone_overlay"
       ],
       "randomTextures": [
         {
@@ -43822,8 +43845,8 @@
       ],
       "creativeTab": "WesterosTerrainSets",
       "label": "Volcanic Rock Slab",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_volcanic_rock_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_volcanic_rock_overlay"
       ],
       "textures": [
         "terrainset_volcanic/random_4x4"
@@ -43844,7 +43867,7 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "TerrainSet Grey Sandstone Wall",
       "textures": [
         "terrainset_grey_sandstone/random_4x4"
@@ -43865,10 +43888,10 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Flowstone Wall",
-      "overlayTextures": [ 
-      	"terrainset_overlays/flowstone_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/flowstone_overlay"
       ],
       "randomTextures": [
         {
@@ -43908,10 +43931,10 @@
         }
       ],
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Volcanic Rock Wall",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_volcanic_rock_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_volcanic_rock_overlay"
       ],
       "textures": [
         "terrainset_volcanic/random_4x4"
@@ -43926,7 +43949,7 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "TerrainSet Grey Sandstone Fence",
       "textures": [
         "terrainset_grey_sandstone/random_4x4"
@@ -43941,10 +43964,10 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "Flowstone Fence",
-      "overlayTextures": [ 
-      	"terrainset_overlays/flowstone_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/flowstone_overlay"
       ],
       "randomTextures": [
         {
@@ -43978,10 +44001,10 @@
       "material": "rock",
       "resistance": 10,
       "creativeTab": "WesterosTerrainSets",
-	  "type": "unconnect:true",
+      "type": "unconnect:true",
       "label": "Volcanic Rock Fence",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_volcanic_rock_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_volcanic_rock_overlay"
       ],
       "textures": [
         "terrainset_volcanic/random_4x4"
@@ -45675,7 +45698,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -45683,7 +45706,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_3:0"
     },
@@ -45738,7 +45761,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -45746,7 +45769,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_3:1"
     },
@@ -45801,7 +45824,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -45809,7 +45832,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_3:2"
     },
@@ -45864,7 +45887,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -45872,7 +45895,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_3:3"
     },
@@ -45981,8 +46004,8 @@
       "type": "unconnect:false",
       "label": "Volcanic Rock Stairs",
       "legacyBlockID": "terrainset_stair_18",
-      "overlayTextures": [ 
-      	"terrainset_overlays/terrainset_volcanic_rock_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/terrainset_volcanic_rock_overlay"
       ]
     },
     {
@@ -45993,8 +46016,8 @@
       "type": "unconnect:false",
       "label": "Cushion Moss Stairs",
       "legacyBlockID": "moss_block_0_stair_0",
-      "overlayTextures": [ 
-         "terrainset_overlays/cushion_moss_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/cushion_moss_overlay"
       ]
     },
     {
@@ -46011,10 +46034,10 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Cushion Moss Wall",
-      "overlayTextures": [ 
-         "terrainset_overlays/cushion_moss_overlay"
+      "overlayTextures": [
+        "terrainset_overlays/cushion_moss_overlay"
       ],
       "randomTextures": [
         {
@@ -46166,7 +46189,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Vertical CTM",
       "textures": [
         "ctm/vertical"
@@ -46177,7 +46200,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Vertical Overlay CTM",
       "textures": [
         "piled_bones/side"
@@ -46191,7 +46214,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "CTM Edges Full Overlay",
       "textures": [
         "piled_bones/side"
@@ -46205,7 +46228,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "CTM Cushon Terrainset Overlay",
       "textures": [
         "piled_bones/side"
@@ -46219,7 +46242,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Horizontal CTM",
       "textures": [
         "ctm/horizontal"
@@ -46230,7 +46253,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Westeros Horizontal CTM",
       "textures": [
         "ctm/westeroshorizontal"
@@ -46241,7 +46264,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Pattern CTM",
       "textures": [
         "ctm/pattern"
@@ -46252,7 +46275,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Random CTM",
       "textures": [
         "ctm/random"
@@ -46263,7 +46286,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Compact CTM",
       "textures": [
         "ctm/compact"
@@ -46274,7 +46297,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Westeros CTM Single",
       "textures": [
         "ctm/westerosctmsingle"
@@ -46285,7 +46308,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Edges CTM (to water)",
       "textures": [
         "ctm/edges"
@@ -46296,7 +46319,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Edges-Full CTM (to water)",
       "textures": [
         "ctm/edges_full"
@@ -46307,7 +46330,7 @@
       "blockType": "log",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Pillar CTM",
       "textures": [
         "ctm/pillar_end",
@@ -46320,7 +46343,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Simple CTM",
       "textures": [
         "ctm/simple"
@@ -46331,7 +46354,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Westeros CTM+Pattern",
       "textures": [
         "ctm/westerosctmpattern"
@@ -46342,7 +46365,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Westeros Nested Cond",
       "textures": [
         "ctm/westerosnestedcond"
@@ -46353,7 +46376,7 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Westeros V+H",
       "textures": [
         "ctm/westerosverthoriz"
@@ -46364,13 +46387,13 @@
       "blockType": "solid",
       "stepSound": "wood",
       "material": "cloth",
-      "creativeTab": "WesterosUtility",
+
       "label": "Westeros H+V",
       "textures": [
         "ctm/westeroshorizvert"
       ]
     },
-	{
+    {
       "blockName": "test_multistate",
       "blockType": "cuboid",
       "hardness": 5,
@@ -46384,251 +46407,251 @@
           "level": 3
         }
       ],
-      "creativeTab": "WesterosUtility",
+
       "label": "Test Multi-state",
       "states": [
-      	{
-      	  "stateID": "normal",
-	      "textures": [
-	        "piled_bones/side"
-	      ],
-	      "overlayTextures": [
-	        "ctm/vertical_overlay"
-	      ],
-	      "cuboids": [
-	        {
-	          "xMin": 0.3755,
-	          "xMax": 0.6245,
-	          "yMin": 0,
-	          "yMax": 0.275,
-	          "zMin": 0.3755,
-	          "zMax": 0.6245,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0.25,
-	          "xMax": 0.75,
-	          "yMin": 0.275,
-	          "yMax": 0.625,
-	          "zMin": 0.25,
-	          "zMax": 0.75,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0,
-	          "xMax": 1,
-	          "yMin": 0.625,
-	          "yMax": 1,
-	          "zMin": 0,
-	          "zMax": 1,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        }
-	      ]
-	    },
-      	{
-      	  "stateID": "flipped",
-	      "textures": [
-	        "piled_bones/side"
-	      ],
-	      "overlayTextures": [
-	        "ctm/vertical_overlay"
-	      ],
-	      "cuboids": [
-	        {
-	          "xMin": 0.3755,
-	          "xMax": 0.6245,
-	          "yMin": 0.725,
-	          "yMax": 1.0,
-	          "zMin": 0.3755,
-	          "zMax": 0.6245,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0.25,
-	          "xMax": 0.75,
-	          "yMin": 0.375,
-	          "yMax": 0.725,
-	          "zMin": 0.25,
-	          "zMax": 0.75,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0,
-	          "xMax": 1,
-	          "yMin": 0.0,
-	          "yMax": 0.375,
-	          "zMin": 0,
-	          "zMax": 1,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        }
-	      ]
-	    },
-  		{
-      	  "stateID": "normal2",
-	      "textures": [
-	        "stacked_bones/bone_stacked_front",
-	        "stacked_bones/bone_stacked_front",
+        {
+          "stateID": "normal",
+          "textures": [
+            "piled_bones/side"
+          ],
+          "overlayTextures": [
+            "ctm/vertical_overlay"
+          ],
+          "cuboids": [
+            {
+              "xMin": 0.3755,
+              "xMax": 0.6245,
+              "yMin": 0,
+              "yMax": 0.275,
+              "zMin": 0.3755,
+              "zMax": 0.6245,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0.25,
+              "xMax": 0.75,
+              "yMin": 0.275,
+              "yMax": 0.625,
+              "zMin": 0.25,
+              "zMax": 0.75,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0,
+              "xMax": 1,
+              "yMin": 0.625,
+              "yMax": 1,
+              "zMin": 0,
+              "zMax": 1,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "stateID": "flipped",
+          "textures": [
+            "piled_bones/side"
+          ],
+          "overlayTextures": [
+            "ctm/vertical_overlay"
+          ],
+          "cuboids": [
+            {
+              "xMin": 0.3755,
+              "xMax": 0.6245,
+              "yMin": 0.725,
+              "yMax": 1.0,
+              "zMin": 0.3755,
+              "zMax": 0.6245,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0.25,
+              "xMax": 0.75,
+              "yMin": 0.375,
+              "yMax": 0.725,
+              "zMin": 0.25,
+              "zMax": 0.75,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0,
+              "xMax": 1,
+              "yMin": 0.0,
+              "yMax": 0.375,
+              "zMin": 0,
+              "zMax": 1,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "stateID": "normal2",
+          "textures": [
+            "stacked_bones/bone_stacked_front",
+            "stacked_bones/bone_stacked_front",
             "stacked_bones/bone_stacked_side"
-      
-	      ],
-	      "overlayTextures": [
-	        "ctm/vertical_overlay"
-	      ],
-	      "cuboids": [
-	        {
-	          "xMin": 0.3755,
-	          "xMax": 0.6245,
-	          "yMin": 0,
-	          "yMax": 0.275,
-	          "zMin": 0.3755,
-	          "zMax": 0.6245,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0.25,
-	          "xMax": 0.75,
-	          "yMin": 0.275,
-	          "yMax": 0.625,
-	          "zMin": 0.25,
-	          "zMax": 0.75,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0,
-	          "xMax": 1,
-	          "yMin": 0.625,
-	          "yMax": 1,
-	          "zMin": 0,
-	          "zMax": 1,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        }
-	      ]
-	    },
-      	{
-      	  "stateID": "flipped2",
-	      "textures": [
-	        "stacked_bones/bone_stacked_front",
-	        "stacked_bones/bone_stacked_front",
+
+          ],
+          "overlayTextures": [
+            "ctm/vertical_overlay"
+          ],
+          "cuboids": [
+            {
+              "xMin": 0.3755,
+              "xMax": 0.6245,
+              "yMin": 0,
+              "yMax": 0.275,
+              "zMin": 0.3755,
+              "zMax": 0.6245,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0.25,
+              "xMax": 0.75,
+              "yMin": 0.275,
+              "yMax": 0.625,
+              "zMin": 0.25,
+              "zMax": 0.75,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0,
+              "xMax": 1,
+              "yMin": 0.625,
+              "yMax": 1,
+              "zMin": 0,
+              "zMax": 1,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "stateID": "flipped2",
+          "textures": [
+            "stacked_bones/bone_stacked_front",
+            "stacked_bones/bone_stacked_front",
             "stacked_bones/bone_stacked_side"
-	      ],
-	      "overlayTextures": [
-	        "ctm/vertical_overlay"
-	      ],
-	      "cuboids": [
-	        {
-	          "xMin": 0.3755,
-	          "xMax": 0.6245,
-	          "yMin": 0.725,
-	          "yMax": 1.0,
-	          "zMin": 0.3755,
-	          "zMax": 0.6245,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0.25,
-	          "xMax": 0.75,
-	          "yMin": 0.375,
-	          "yMax": 0.725,
-	          "zMin": 0.25,
-	          "zMax": 0.75,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        },
-	        {
-	          "xMin": 0,
-	          "xMax": 1,
-	          "yMin": 0.0,
-	          "yMax": 0.375,
-	          "zMin": 0,
-	          "zMax": 1,
-	          "sideTextures": [
-	            0,
-	            0,
-	            0,
-	            0,
-	            0,
-	            0
-	          ]
-	        }
-	      ]
-	    }
-	  ]	    
+          ],
+          "overlayTextures": [
+            "ctm/vertical_overlay"
+          ],
+          "cuboids": [
+            {
+              "xMin": 0.3755,
+              "xMax": 0.6245,
+              "yMin": 0.725,
+              "yMax": 1.0,
+              "zMin": 0.3755,
+              "zMax": 0.6245,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0.25,
+              "xMax": 0.75,
+              "yMin": 0.375,
+              "yMax": 0.725,
+              "zMin": 0.25,
+              "zMax": 0.75,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "xMin": 0,
+              "xMax": 1,
+              "yMin": 0.0,
+              "yMax": 0.375,
+              "zMin": 0,
+              "zMax": 1,
+              "sideTextures": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "blockName": "crop_peas",
@@ -47004,7 +47027,7 @@
         }
       ],
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Iron Wall",
       "randomTextures": [
         {
@@ -47039,7 +47062,7 @@
         }
       ],
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oxidized Iron Wall",
       "randomTextures": [
         {
@@ -47074,7 +47097,7 @@
         }
       ],
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Steel Wall",
       "randomTextures": [
         {
@@ -47109,7 +47132,7 @@
         }
       ],
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oxidized Steel Wall",
       "randomTextures": [
         {
@@ -47144,7 +47167,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Gold Brick Wall",
       "textures": [
         "gold_brick/side"
@@ -47165,7 +47188,7 @@
         }
       ],
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Gold Wall",
       "randomTextures": [
         {
@@ -47194,7 +47217,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Iron Fence",
       "randomTextures": [
         {
@@ -47223,7 +47246,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oxidized Iron Fence",
       "randomTextures": [
         {
@@ -47252,7 +47275,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Steel Fence",
       "randomTextures": [
         {
@@ -47281,7 +47304,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Oxidized Steel Fence",
       "randomTextures": [
         {
@@ -47310,7 +47333,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Gold Brick Fence",
       "textures": [
         "gold_brick/side"
@@ -47325,7 +47348,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosMetal",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Gold Fence",
       "randomTextures": [
         {
@@ -48329,7 +48352,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Pale Pink Light Brick Wall",
       "textures": [
         "stone_block_4/brick_pale_pink_light"
@@ -48350,7 +48373,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Pale Pink Faint Light Brick Wall",
       "textures": [
         "stone_block_4/brick_pale_pink_faint_light"
@@ -48371,7 +48394,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Faint Light Grey Brick Wall",
       "colorMult": "textures/colormap/faintlightgreystone",
       "textures": [
@@ -48393,7 +48416,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Northern Cobble Wall",
       "colorMult": "textures/colormap/darkcobble",
       "textures": [
@@ -48415,7 +48438,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Icy Northern Cobble Wall",
       "colorMult": "textures/colormap/darkcobble",
       "textures": [
@@ -48437,7 +48460,7 @@
         }
       ],
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "White Granite Wall",
       "textures": [
         "stone_block_2/brick_white_granite"
@@ -48458,7 +48481,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Small White Brick Wall",
       "textures": [
         "stone_block_1/brick_white_small"
@@ -48479,7 +48502,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Light Oldtown Brick Wall",
       "textures": [
         "stone_block_3/brick_oldtown_light"
@@ -48500,7 +48523,7 @@
         }
       ],
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stormlands Large Brick Wall",
       "textures": [
         "stormlands_brick_large/side"
@@ -48515,7 +48538,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Pale Pink Light Brick Fence",
       "textures": [
         "stone_block_4/brick_pale_pink_light"
@@ -48530,7 +48553,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Pale Pink Faint Light Brick Fence",
       "textures": [
         "stone_block_4/brick_pale_pink_faint_light"
@@ -48545,7 +48568,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Faint Light Grey Brick Fence",
       "colorMult": "textures/colormap/faintlightgreystone",
       "textures": [
@@ -48561,7 +48584,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Northern Cobble Fence",
       "colorMult": "textures/colormap/darkcobble",
       "textures": [
@@ -48577,7 +48600,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Icy Northern Cobble Fence",
       "colorMult": "textures/colormap/darkcobble",
       "textures": [
@@ -48593,7 +48616,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "White Granite Fence",
       "textures": [
         "stone_block_2/brick_white_granite"
@@ -48608,7 +48631,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosCobbleStone",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "White Cobblestone Fence",
       "textures": [
         "stone_block_2/stone_cobble_white"
@@ -48623,7 +48646,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosBrick",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Light Oldtown Brick Fence",
       "textures": [
         "stone_block_3/brick_oldtown_light"
@@ -48729,7 +48752,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -48737,7 +48760,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:0"
     },
@@ -48792,7 +48815,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -48800,7 +48823,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:1"
     },
@@ -48856,7 +48879,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -48864,7 +48887,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:2"
     },
@@ -48920,7 +48943,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -48928,7 +48951,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:3"
     },
@@ -48984,7 +49007,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -48992,7 +49015,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:4"
     },
@@ -49047,7 +49070,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49055,7 +49078,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:5"
     },
@@ -49110,7 +49133,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49118,7 +49141,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:6"
     },
@@ -49173,7 +49196,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49181,7 +49204,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:7"
     },
@@ -49236,7 +49259,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49244,7 +49267,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:8"
     },
@@ -49299,7 +49322,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49307,7 +49330,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:9"
     },
@@ -49362,7 +49385,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49370,7 +49393,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:10"
     },
@@ -49425,7 +49448,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49433,7 +49456,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:11"
     },
@@ -49488,7 +49511,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49496,7 +49519,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:12"
     },
@@ -49551,7 +49574,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49559,7 +49582,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:13"
     },
@@ -49614,7 +49637,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49622,7 +49645,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:14"
     },
@@ -49677,7 +49700,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49685,7 +49708,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_4:15"
     },
@@ -49740,7 +49763,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49748,7 +49771,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:0"
     },
@@ -49803,7 +49826,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49811,7 +49834,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:1"
     },
@@ -49866,7 +49889,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49874,7 +49897,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:2"
     },
@@ -49929,7 +49952,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -49937,7 +49960,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:3"
     },
@@ -49992,7 +50015,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50000,7 +50023,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:4"
     },
@@ -50055,7 +50078,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50063,7 +50086,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:5"
     },
@@ -50118,7 +50141,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50126,7 +50149,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:6"
     },
@@ -50181,7 +50204,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50189,7 +50212,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:7"
     },
@@ -50244,7 +50267,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50252,8 +50275,8 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
-      ],    
+        }
+      ],
       "legacyBlockID": "arrow_slits_5:8"
     },
     {
@@ -50307,7 +50330,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50315,7 +50338,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:9"
     },
@@ -50370,7 +50393,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50378,7 +50401,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:10"
     },
@@ -50433,7 +50456,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50441,7 +50464,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:11"
     },
@@ -50496,7 +50519,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50504,7 +50527,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:12"
     },
@@ -50559,7 +50582,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50567,7 +50590,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:13"
     },
@@ -50622,7 +50645,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50630,7 +50653,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_5:14"
     },
@@ -50685,7 +50708,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50693,7 +50716,7 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
+        }
       ],
       "legacyBlockID": "arrow_slits_6:0"
     },
@@ -50748,7 +50771,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50756,8 +50779,8 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
-      ],   
+        }
+      ],
       "legacyBlockID": "arrow_slits_6:1"
     },
     {
@@ -50811,7 +50834,7 @@
           "zMax": 1
         }
       ],
-      "supportBoxes": [ 
+      "supportBoxes": [
         {
           "xMin": 0,
           "xMax": 1,
@@ -50819,8 +50842,8 @@
           "yMax": 1,
           "zMin": 0,
           "zMax": 1
-        }      
-      ],    
+        }
+      ],
       "legacyBlockID": "arrow_slits_6:2"
     },
     {
@@ -53116,7 +53139,7 @@
         }
       ],
       "creativeTab": "WesterosWaterAir",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Ice Wall",
       "textures": [
         "ice/ice"
@@ -53131,7 +53154,7 @@
       "material": "craftedSnow",
       "resistance": 10,
       "creativeTab": "WesterosWaterAir",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Snow Fence",
       "ambientOcclusion": false,
       "textures": [
@@ -53149,7 +53172,7 @@
       "material": "glass",
       "resistance": 10,
       "creativeTab": "WesterosWaterAir",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Ice Fence",
       "textures": [
         "ice/ice"
@@ -53209,7 +53232,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stacked Bones Fence",
       "textures": [
         "stacked_bones/bone_stacked_side"
@@ -53361,7 +53384,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Stacked Bones Wall",
       "textures": [
         "stacked_bones/bone_stacked_side",
@@ -53384,7 +53407,7 @@
         }
       ],
       "creativeTab": "WesterosMisc",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Piled Bones Wall",
       "textures": [
         "piled_bones/side"
@@ -54072,7 +54095,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-      "customTags": [ "plank-ctm" ],      
+      "customTags": [ "plank-ctm" ],
       "label": "Black Wood Hopper",
       "textures": [
         "wood_block_1/wood_black"
@@ -54588,7 +54611,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Black Wood Wall",
       "textures": [
@@ -54610,7 +54633,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Blue Wood Wall",
       "textures": [
@@ -54632,7 +54655,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Green Wood Wall",
       "textures": [
@@ -54654,7 +54677,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Red Wood Wall",
       "textures": [
@@ -54676,7 +54699,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Yellow Wood Wall",
       "textures": [
@@ -54698,7 +54721,7 @@
         }
       ],
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "customTags": [ "plank-ctm" ],
       "label": "Purple Wood Wall",
       "textures": [
@@ -54714,7 +54737,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Black Wood Fence",
       "textures": [
         "wood_block_1/wood_black"
@@ -54729,7 +54752,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Blue Wood Fence",
       "textures": [
         "wood_block_1/wood_blue"
@@ -54744,7 +54767,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Green Wood Fence",
       "textures": [
         "wood_block_1/wood_green"
@@ -54759,7 +54782,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Red Wood Fence",
       "textures": [
         "wood_block_1/wood_red"
@@ -54774,7 +54797,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Yellow Wood Fence",
       "textures": [
         "wood_block_1/wood_yellow"
@@ -54789,7 +54812,7 @@
       "material": "wood",
       "resistance": 10,
       "creativeTab": "WesterosWoodPlanks",
-	  "type": "unconnect:false",
+      "type": "unconnect:false",
       "label": "Purple Wood Fence",
       "textures": [
         "wood_block_1/wood_purple"
