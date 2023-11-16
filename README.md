@@ -1,6 +1,6 @@
 # World Of Nations request
 
-Hey, this project is a request from the World Of Nations server. It's an modified version of the 1.18.2 Minecraft mod.
+Hey, this project is a request from the World Of Nations server. It's a modified version of the 1.18.2 Minecraft mod.
 
 # WesterosBlocks
 
